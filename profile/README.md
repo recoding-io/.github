@@ -1,12 +1,18 @@
-## Hi there 👋
+# Welcome to Recoding Github Repo
 
-<!--
 
-**Here are some ideas to get you started:**
+## React Codes
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Links :
+
+[Codebase Page](https://github.com/recoding-io/react-videos)
+
+[React Playlist](https://www.youtube.com/playlist?list=PLkpYvePHPSwuCwSsyNiBYf7-BaiDcxfSQ)
+
+## Swift Codes
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+[Codebase Page](https://github.com/recoding-io/swiftui-videos)
+
+[SwiftUI Playlitst](https://www.youtube.com/playlist?list=PLkpYvePHPSwsj1NrVy7ROQ-8n15AJ1Nnu)
